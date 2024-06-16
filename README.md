@@ -4,13 +4,13 @@
 
 **List of ML algos to be covered:**
 - [x] Linear Regression
-- [x]Logistic Regression
-- [ ]KNN 
-- [x]SVM 
-- [ ]NB 
-- [ ]DT 
-- [ ]RF 
-- [ ]ensemble 
+- [x] Logistic Regression
+- [ ] KNN 
+- [x] SVM 
+- [ ] NB 
+- [ ] DT 
+- [ ] RF 
+- [ ] ensemble 
 
 **Datasets**
 
