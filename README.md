@@ -16,7 +16,7 @@
 
 - [x] 1. Housing dataset
 - [x] 2. Titanic
-- [ ] 3. iris
-- [ ] 4. diabetes
+- [x] 3. iris
+- [x] 4. diabetes
 - [ ] 5. wine 
 - [ ] 6. cancer
