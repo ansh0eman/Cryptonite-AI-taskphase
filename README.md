@@ -18,5 +18,5 @@
 - [x] 2. Titanic
 - [x] 3. iris
 - [x] 4. diabetes
-- [ ] 5. wine 
+- [x] 5. wine 
 - [ ] 6. cancer
