@@ -1,6 +1,6 @@
 ﻿## Cryptonite-AI-taskphase
 
-# Week 1
+# Task_1
 
 **List of ML algos to be covered:**
 - [x] Linear Regression
@@ -19,4 +19,4 @@
 - [x] 3. iris
 - [x] 4. diabetes
 - [x] 5. wine 
-- [ ] 6. cancer
+- [x] 6. cancer
