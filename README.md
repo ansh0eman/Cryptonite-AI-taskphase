@@ -4,6 +4,8 @@
 
 **List of ML algos to be covered:**
 - [x] Linear Regression
+     - [x] Lasso Regression
+     - [x] Ridge Regression
 - [x] Logistic Regression
 - [x] KNN 
 - [x] SVM 
