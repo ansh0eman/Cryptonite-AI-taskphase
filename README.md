@@ -5,9 +5,9 @@
 **List of ML algos to be covered:**
 - [x] Linear Regression
 - [x] Logistic Regression
-- [ ] KNN 
+- [x] KNN 
 - [x] SVM 
-- [ ] NB 
+- [x] NB 
 - [ ] DT 
 - [ ] RF 
 - [ ] ensemble 
