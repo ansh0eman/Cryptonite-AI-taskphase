@@ -22,3 +22,9 @@
 - [x] 4. diabetes
 - [x] 5. wine 
 - [x] 6. cancer
+
+# Task_2
+
+**Competitions**
+- [x] 1. Regression on blueberry yield
+- [x] 2. Cirrhosis multi class classification
