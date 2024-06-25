@@ -17,6 +17,7 @@
        - [x] AdaBoost
        - [x] Gradient Boost
        - [x] Xg Boost
+
 **Datasets**
 
 - [x] 1. Housing dataset
