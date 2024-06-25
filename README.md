@@ -4,16 +4,19 @@
 
 **List of ML algos to be covered:**
 - [x] Linear Regression
-     - [x] Lasso Regression
-     - [x] Ridge Regression
+
 - [x] Logistic Regression
 - [x] KNN 
 - [x] SVM 
 - [x] NB 
-- [ ] DT 
-- [ ] RF 
-- [ ] ensemble 
-
+- [x] DT 
+- [x] RF 
+- [x] ensemble 
+     - [x] Bagging (Bootstrap Aggregator)
+     - [x] Boosting
+       - [x] AdaBoost
+       - [x] Gradient Boost
+       - [x] Xg Boost
 **Datasets**
 
 - [x] 1. Housing dataset
