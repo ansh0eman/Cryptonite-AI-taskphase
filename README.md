@@ -4,7 +4,6 @@
 
 **List of ML algos to be covered:**
 - [x] Linear Regression
-
 - [x] Logistic Regression
 - [x] KNN 
 - [x] SVM 
@@ -19,7 +18,6 @@
        - [x] Xg Boost
 
 **Datasets**
-
 - [x] 1. Housing dataset
 - [x] 2. Titanic
 - [x] 3. iris
@@ -32,3 +30,10 @@
 **Competitions**
 - [x] 1. Regression on blueberry yield
 - [x] 2. Cirrhosis multi class classification
+
+# Task_3
+
+**Deep Learning Tasks**
+- [x] 1. Dog_breed_classifier
+- [x] 2. Pokemon_multiclass
+- [x] 3. Face_expression_recognition
