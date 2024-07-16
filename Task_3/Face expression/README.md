@@ -24,6 +24,8 @@
   ## e. Complilation: 
   used Adam optimizer (probably the best) which utilizes RMSprop and Momentum prop. Loss function used categorical crossentropy for multiclass classification, and accuracy for model evaluation. Used Learning Rate Scheduler for faster convergence, by initializing a bigger lr value and exponentially decaying it. 
 
-  ## f. Training: model trained for a few epochs, hyperparameter adjusting etc.
+  ## f. Training: 
+  model trained for a few epochs, hyperparameter adjusting etc.
 
-  ## e. Evaluation of model on test dataset to measure its accuracy and performance.
+  ## e. Evaluation 
+  of model on test dataset to measure its accuracy and performance.
