@@ -37,3 +37,7 @@
 - [x] 1. Dog_breed_classifier
 - [x] 2. Pokemon_multiclass
 - [x] 3. Face_expression_recognition
+
+# Task_4
+## CTF
+- [x] CTF
