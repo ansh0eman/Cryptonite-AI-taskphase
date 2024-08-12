@@ -12,4 +12,4 @@ This repository contains a React+Vite frontend that serves as the interface for 
 4. **Submit Your Flag:** After retrieving the flag from the model, enter it in the textbox provided below the files to check if it is correct.
 
 ## Note 
-This repository contains only the website for accessing and playing the challenge. For detailed description on the CTF challenge itself, please refer to *[this repository](https://github.com/Aquila0911/Cryptonite-AI-TP/tree/main/CTF_Task)*.
+This repository contains only the website for accessing and playing the challenge. For detailed description on the CTF challenge itself, please refer to *[this repository](https://github.com/ansh0eman/Cryptonite-AI-taskphase/tree/main/Task_4_CTF)*
